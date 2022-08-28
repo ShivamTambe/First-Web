@@ -1602,3 +1602,22 @@ body {
     filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%) contrast(119%);
 
 }
+.logodiv{
+    width: 30px;
+    height: 30px;
+    background-image: url('https://assets.website-files.com/609486d2fafa37698a57db5b/609bf4ae6380ac34e545f653_firstbase-logo.svg');
+    /* background-position: center center; */
+    background-repeat: no-repeat;
+    background-size: 135px;
+}
+.logotitle{
+    position: relative;
+    left: 18px;
+    top: -30px;
+}
+.logo a{
+    height: 50px;
+}
+.navbar{
+    height: 70px;
+}
